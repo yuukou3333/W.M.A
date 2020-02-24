@@ -41,7 +41,7 @@ gem 'rails-i18n', '~> 5.1'
 gem 'devise-i18n'
 
 # Bootstrap（簡単に見た目を整えられる）
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'bootstrap-sass'
 gem 'mini_racer'
 gem 'jquery-rails'
